@@ -25,7 +25,7 @@ public class DemoApplication extends SpringBootServletInitializer {
 	}
 
 	/*
-	* Used when running as WAR
+	* Used when running as WAR File
 	* */
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
