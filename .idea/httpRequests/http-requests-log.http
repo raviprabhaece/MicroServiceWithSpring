@@ -1,0 +1,14 @@
+GET http://localhost:8080/domo/hi/prabha
+
+<> 2020-09-21T113746.404.html
+
+###
+
+GET http://localhost/hi/prabha
+
+###
+
+GET http://localhost/hi/{{name}}
+
+###
+

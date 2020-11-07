@@ -1,0 +1,6 @@
+com\example\demo\DemoApplication.class
+com\example\demo\domain\Player.class
+com\example\demo\domain\Team.class
+com\example\demo\dao\Teamdao.class
+com\example\demo\DemoApplicationController.class
+com\example\demo\dao\PlayerDao.class
