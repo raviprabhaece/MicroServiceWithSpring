@@ -4,7 +4,7 @@ import org.springframework.data.annotation.Id;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
-
+/*This is a player class used on Demo Application */
 @Entity
 public class Player {
 
